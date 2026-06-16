@@ -4,8 +4,8 @@
 
 <br><br>
 
-<a href="https://try-mesh.com"><img src="https://img.shields.io/badge/web-try--mesh.com-06b6d4?style=for-the-badge&labelColor=0b0b0c" alt="Website"></a>
-&nbsp;<img src="https://img.shields.io/badge/paper-working%20draft-22d3ee?style=for-the-badge&labelColor=0b0b0c" alt="Working draft">
+<a href="https://try-mesh.github.io/MESH/"><img src="https://img.shields.io/badge/read%20online-try--mesh.github.io%2FMESH-22d3ee?style=for-the-badge&labelColor=0b0b0c" alt="Read online"></a>
+&nbsp;<a href="https://try-mesh.com"><img src="https://img.shields.io/badge/web-try--mesh.com-06b6d4?style=for-the-badge&labelColor=0b0b0c" alt="Website"></a>
 &nbsp;<img src="https://img.shields.io/badge/June-2026-3f3f46?style=for-the-badge&labelColor=0b0b0c" alt="June 2026">
 
 <h3>A Token-Efficient, Graph-Native Logic for Repository-Scale Code Agents</h3>
@@ -18,16 +18,16 @@
 
 ## 📄 The paper
 
-> [!NOTE]
-> The PDF links below are placeholders — drop your hosted URLs into the **Read** column (replace the `#`).
+> [!TIP]
+> Read online at **[try-mesh.github.io/MESH](https://try-mesh.github.io/MESH/)**, or open any edition directly below.
 
 | Edition | Pages | What's inside | Read |
 |---|:--:|---|:--:|
-| **Full working draft** | 61 | The complete paper — every section, references, and appendices | [PDF&nbsp;↗](#) |
-| **Main text** | 54 | Content only — §1–§18, references &amp; appendices removed | [PDF&nbsp;↗](#) |
-| **Condensed edition** | 22 | The ~20-page highlights — core architecture + results | [PDF&nbsp;↗](#) |
-| **Outreach summary** | 2 | One-glance teaser + the headline result | [PDF&nbsp;↗](#) |
-| **References &amp; appendices** | 8 | Companion volume — bibliography + Appendix&nbsp;A–F | [PDF&nbsp;↗](#) |
+| **Full working draft** | 58 | The complete paper — every section, references, and appendices | [PDF&nbsp;↗](https://try-mesh.github.io/MESH/mesh-paper.pdf) |
+| **Condensed edition** | 22 | The ~20-page highlights — core architecture + results | [PDF&nbsp;↗](https://try-mesh.github.io/MESH/mesh-paper-condensed.pdf) |
+| **Outreach summary** | 2 | One-glance teaser + the headline result | [PDF&nbsp;↗](https://try-mesh.github.io/MESH/mesh-paper-outreach.pdf) |
+| **Main text** | 53 | Content only — §1–§18, references &amp; appendices removed | [PDF&nbsp;↗](https://try-mesh.github.io/MESH/mesh-paper-maintext.pdf) |
+| **References &amp; appendices** | 8 | Companion volume — bibliography + Appendix&nbsp;A–F | [PDF&nbsp;↗](https://try-mesh.github.io/MESH/mesh-paper-refs-appendix.pdf) |
 
 <div align="center"><sub>New here? Start with the <b>Outreach summary</b> (2 min) or the <b>Condensed edition</b> (~20 min).</sub></div>
 
