@@ -22,10 +22,10 @@ Read online at **[try-mesh.github.io/MESH](https://try-mesh.github.io/MESH/)**, 
 
 | Edition | Pages | Description | Link |
 |---|:--:|---|:--:|
-| **Full working draft** | 58 | The complete paper — every section, references, and appendices | [PDF](https://try-mesh.github.io/MESH/mesh-paper.pdf) |
-| **Condensed edition** | 22 | The core architecture and results, in roughly twenty pages | [PDF](https://try-mesh.github.io/MESH/mesh-paper-condensed.pdf) |
+| **Full working draft** | 67 | The complete paper — every section, references, and appendices | [PDF](https://try-mesh.github.io/MESH/mesh-paper.pdf) |
+| **Condensed edition** | 25 | The core architecture and results, in roughly twenty-five pages | [PDF](https://try-mesh.github.io/MESH/mesh-paper-condensed.pdf) |
 | **Outreach summary** | 2 | A one-page overview and the headline result | [PDF](https://try-mesh.github.io/MESH/mesh-paper-outreach.pdf) |
-| **Main text** | 53 | Content only — sections 1–18, references and appendices removed | [PDF](https://try-mesh.github.io/MESH/mesh-paper-maintext.pdf) |
+| **Main text** | 61 | Content only — sections 1–18, references and appendices removed | [PDF](https://try-mesh.github.io/MESH/mesh-paper-maintext.pdf) |
 | **References and appendices** | 8 | Companion volume — bibliography and Appendix A–F | [PDF](https://try-mesh.github.io/MESH/mesh-paper-refs-appendix.pdf) |
 
 New readers may prefer the outreach summary (about two minutes) or the condensed edition (about twenty minutes).
